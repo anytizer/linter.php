@@ -1,0 +1,14 @@
+{
+	"name": "anytizer/linter",
+	"type": "library",
+	"keywords": ["syntax"],
+	"description": "Syntax checker for PHP",
+	"authors": [
+		{
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": "^7.0"
+	},
+}
