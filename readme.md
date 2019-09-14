@@ -15,6 +15,5 @@ Put the files in the root of your project.
 
 Run php-linter.bat:
 
-    php-linter
-
-Then look into the new log file `lint-checker.log` for errors.
+ - `php-linter`
+ - Then look into the new log file `lint-checker.log` for errors.

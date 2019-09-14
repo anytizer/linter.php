@@ -1,10 +1,11 @@
 {
-	"name": "anytizer/linter",
+	"name": "anytizer/linter.php",
 	"type": "library",
 	"keywords": ["syntax"],
 	"description": "Syntax checker for PHP",
 	"authors": [
 		{
+			"role": "anytizer",
 			"role": "Developer"
 		}
 	]
